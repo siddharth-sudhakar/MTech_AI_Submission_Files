@@ -1,0 +1,17 @@
+1. Write a program to reverse a singly linked list (implement both iterative and recursive methods).
+2. Write a program to search for a given element in a linked list and print its position.
+3. Create a singly linked list of n nodes and display all its elements.
+4. Write a program to detect whether a linked list contains a loop using Floyd’s Cycle Detection
+Algorithm.
+5. Implement insertion operations in a singly linked list to insert a node:
+• At the beginning
+• At the end
+• At a given position
+6. Write a program to count and display the total number of nodes present in a linked list.
+7. Write a program to merge two sorted linked lists into one sorted linked list.
+8. Delete nodes from a singly linked list from:
+• The beginning
+• The end
+• A given position
+9. Find and print the middle element of a linked list using the two-pointer technique.
+10. Remove duplicate elements from a sorted linked list so that each element appears only once.
