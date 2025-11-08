@@ -12,7 +12,7 @@ Node* newNode(int data){
     node->data = data;
     node->next = NULL;
     node->prev = NULL;
-    return node;  // ✅ You forgot to return the node earlier
+    return node;
 }
 
 Node* ReverseDoublyLinkedList(Node* head){
